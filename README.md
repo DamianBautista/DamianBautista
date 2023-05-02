@@ -1,8 +1,12 @@
 # Hello there 👋 
 
-### I'm Damian Bautista, 
+### Hello! My name is Damian Bautista. 
 
-I am a seventh semester student at the University of the Technological Institute of Oaxaca, Mexico, studying for a degree in Software Engineering. 👨🏻‍💻
+I'm a student of Computer Systems Engineering at the Technological Institute of Oaxaca, which means that I'm passionate about technology and constant learning. I like to face challenges and solve problems in a creative and efficient way, which is why I chose this career. 
+
+In addition to my interest in technology, I have other hobbies and activities that I enjoy. I love playing video games, reading science fiction books, and watching action movies. I also enjoy music and try to dedicate time to these hobbies when I can.
+
+In the future, I hope to use my skills and knowledge to help solve problems and create innovative solutions. I believe that technology has the power to improve people's lives, and I'm excited to be a part of that change. I'm eager to see what the future holds for me in my career and in life in general!👨🏻‍💻
 
 
 
