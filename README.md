@@ -28,28 +28,23 @@ In the future, I hope to use my skills and knowledge to help solve problems and 
 <!-- React -->
 <a href="https://reactjs.org/" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" 
-   alt="React" height="30" width="40" />
-</a>
+   alt="React" height="30" width="40" /></a>
 <!-- JavaScript -->
 <a href="https://www.javascript.com/" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" 
-   alt="JavaScript" height="30" width="40" />
-</a>
+   alt="JavaScript" height="30" width="40" /></a>
 <!-- CSS -->
 <a href="https://www.w3.org/Style/CSS/" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" 
-   alt="CSS" height="30" width="40" />
-</a>
+   alt="CSS" height="30" width="40" /></a>
 <!-- HTML -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" 
-   alt="HTML" height="30" width="40" />
-</a>
+   alt="HTML" height="30" width="40" /></a>
 <!-- Java -->
 <a href="https://www.java.com/" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" 
-   alt="Java" height="30" width="40" />
-</a>
+   alt="Java" height="30" width="40" /></a>
 
 
 
