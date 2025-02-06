@@ -27,7 +27,7 @@ In the future, I hope to use my skills and knowledge to help solve problems and 
 * Read programming books
 * Write about technologies that interest me in My Blog.
 
- 
+
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -125,8 +125,19 @@ In the future, I hope to use my skills and knowledge to help solve problems and 
 </p>
 
 
+
+
+
 <br>
 
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{DamianBautista}/count.svg" alt="DamianBautista :: Visitor's Count" /></p>
+
+
+<br>
 
 
 Do ⭐ my repository if you find my project interesting, at least your star could make someone's day.  
