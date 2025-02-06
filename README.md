@@ -125,20 +125,36 @@ In the future, I hope to use my skills and knowledge to help solve problems and 
 </p>
 
 
-
-
-
 <br>
+<br>
+<br>
+<h1 align="center">📊 GitHub Stats</h1>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+---
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h3 align="center">👀 Visitor's Count</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{DamianBautista}/count.svg" alt="DamianBautista :: Visitor's Count" />
+</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{DamianBautista}/count.svg" alt="DamianBautista :: Visitor's Count" /></p>
+---
 
-<h4 align="center">Top langs :tongue:</h4>
+<h3 align="center">🔥 Streak Stats</h3>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=DamianBautista&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianBautista&langs_count=10&theme=tokyonight&layout=compact" alt="DamianBautista :: Top Langs" /></p>
+---
+
+<h3 align="center">💻 Most Used Languages</h3>
+<p align="center">
+  <a href="https://github.com/DamianBautista/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianBautista&theme=algolia&layout=compact" alt="Most Used Languages" />
+  </a>
+</p>
+
 
 <br>
 
