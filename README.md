@@ -136,6 +136,9 @@ In the future, I hope to use my skills and knowledge to help solve problems and 
 
 <p align="center"><img src="https://profile-counter.glitch.me/{DamianBautista}/count.svg" alt="DamianBautista :: Visitor's Count" /></p>
 
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianBautista&langs_count=10&theme=tokyonight&layout=compact" alt="DamianBautista :: Top Langs" /></p>
 
 <br>
 
