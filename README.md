@@ -1,12 +1,8 @@
 <h1 align="center"><b>Hi , I'm Damian Bautista </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
-
 [![Github](https://img.shields.io/github/followers/DamianBautista?label=Follow&style=social)](https://github.com/DamianBautista)
 
-
-
-# 👨🏻‍💻 Hello! I'm Damian Bautista  
+# 👨🏻‍💻  About Me 
 
 I'm a **Computer Systems Engineering** student at the **Technological Institute of Oaxaca**, passionate about technology and constant learning. I love tackling challenges and solving problems in a creative and efficient way, which led me to choose this career path.
 
