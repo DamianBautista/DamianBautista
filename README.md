@@ -6,26 +6,34 @@
 
 
 
-### Hello! My name is Damian Bautista. 
+# 👨🏻‍💻 Hello! I'm Damian Bautista  
 
-I'm a student of Computer Systems Engineering at the Technological Institute of Oaxaca, which means that I'm passionate about technology and constant learning. I like to face challenges and solve problems in a creative and efficient way, which is why I chose this career. 
+I'm a **Computer Systems Engineering** student at the **Technological Institute of Oaxaca**, passionate about technology and constant learning. I love tackling challenges and solving problems in a creative and efficient way, which led me to choose this career path.
 
-In addition to my interest in technology, I have other hobbies and activities that I enjoy. I love playing video games, reading science fiction books, and watching action movies. I also enjoy music and try to dedicate time to these hobbies when I can.
+In addition to my interest in technology, I have a variety of hobbies and activities I enjoy:
+- 🎮 Playing video games  
+- 📚 Reading science fiction books  
+- 🎬 Watching action movies  
+- 🎶 Listening to music and exploring new genres  
 
-In the future, I hope to use my skills and knowledge to help solve problems and create innovative solutions. I believe that technology has the power to improve people's lives, and I'm excited to be a part of that change. I'm eager to see what the future holds for me in my career and in life in general!👨🏻‍💻
+In the future, I hope to use my skills and knowledge to help solve problems and create innovative solutions. I believe technology has the power to improve lives, and I'm excited to be part of that change.  
 
+---
 
+### 💼 Things I'm Currently Working On:
+- 🎓 Pursuing a degree in **Software Engineering**  
+- 🖥️ Taking an online course in **HTML, CSS, JavaScript**  
+- 🎨 Planning to take **UI/UX Design** courses  
 
-### 💼  Things that I'm currently working on: 
-* Pursuing a degree in Software Engineering
-* Taking an online course in HTML, CSS, JavaScript.
-* I hope to take interface design courses
-* 👨🏻‍💻
+---
 
-### 🖱️ Purposes and goals for 2023:
-* Aprender un lenguaje nuevo
-* Read programming books
-* Write about technologies that interest me in My Blog.
+### 🖱️ Purposes and Goals for 2023:
+- 🚀 **Learn a new programming language**  
+- 📖 Read more **programming books**  
+- ✍️ Write about technologies on **My Blog**  
+
+---
+
 
 
 <br>
