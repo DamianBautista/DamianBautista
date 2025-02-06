@@ -151,9 +151,10 @@ In the future, I hope to use my skills and knowledge to help solve problems and 
 <h3 align="center">💻 Most Used Languages</h3>
 <p align="center">
   <a href="https://github.com/DamianBautista/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianBautista&theme=algolia&layout=compact" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianBautista&theme=algolia" alt="Most Used Languages" />
   </a>
 </p>
+
 
 
 <br>
