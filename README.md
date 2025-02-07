@@ -1,7 +1,5 @@
 <h1 align="center"><b>Hi , I'm Damian Bautista </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Github](https://img.shields.io/github/followers/DamianBautista?label=Follow&style=social)](https://github.com/DamianBautista)
-
 <p align="left">
   <a href="https://www.x.com/DamiianBautista" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/DamiianBautista?logo=twitter&style=for-the-badge&color=a855f7&labelColor=ffffff" />
@@ -11,6 +9,12 @@
     <img src="https://img.shields.io/twitch/status/damianbautistaofficial?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=ffffff&label=TWITCH+STATUS" />
   </a>
 </p>
+
+[![Github](https://img.shields.io/github/followers/DamianBautista?label=Follow&style=social)](https://github.com/DamianBautista)
+
+
+<br>
+<br>
 
 # <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px">&nbsp;***About me***
 I'm a **Computer Systems Engineering** student at the **Technological Institute of Oaxaca**, passionate about technology and constant learning. I love tackling challenges and solving problems in a creative and efficient way, which led me to choose this career path.
@@ -229,8 +233,6 @@ In the future, I hope to use my skills and knowledge to help solve problems and 
 </p>
 
 ---
-
-
 
 <br>
 
