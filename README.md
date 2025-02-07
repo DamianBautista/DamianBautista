@@ -2,6 +2,16 @@
 
 [![Github](https://img.shields.io/github/followers/DamianBautista?label=Follow&style=social)](https://github.com/DamianBautista)
 
+<p align="left">
+  <a href="https://www.x.com/DamiianBautista" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitter/follow/DamiianBautista?logo=twitter&style=for-the-badge&color=a855f7&labelColor=ffffff" />
+  </a>
+  
+  <a href="https://www.twitch.tv/damianbautistaofficial" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/twitch/status/damianbautistaofficial?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=ffffff&label=TWITCH+STATUS" />
+  </a>
+</p>
+
 # <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px">&nbsp;***About me***
 I'm a **Computer Systems Engineering** student at the **Technological Institute of Oaxaca**, passionate about technology and constant learning. I love tackling challenges and solving problems in a creative and efficient way, which led me to choose this career path.
 
@@ -60,56 +70,123 @@ In the future, I hope to use my skills and knowledge to help solve problems and 
   
 <br>
 <h3 align="left">Connect with me:</h3>
-<p align="left"> 
-   <!-- Row 1 -->
-   <a href="https://www.instagram.com/damianbautistaofficial" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-      alt="Instagram" height="40" width="40" /></a>
-   <a href="https://www.facebook.com/damianbautistaofficial" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-      alt="Facebook" height="40" width="40" /></a>
-   <a href="https://twitter.com/DamiianBautista" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
-      alt="Twitter (X)" height="40" width="40" /></a>
-   <a href="https://www.linkedin.com/in/TU_USUARIO" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      alt="LinkedIn" height="30" width="40" /></a>
-   <a href="https://www.youtube.com/c/TU_USUARIO" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
-      alt="YouTube" height="40" width="40" /></a>
+
+
+<p align="left">
+  <a href="https://www.github.com/DamianBautista" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    </picture>
+  </a>
+
+  <a href="https://www.x.com/DamiianBautista" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+    </picture>
+  </a>
+
+  <a href="https://www.threads.net/@damianbautistaofficial" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
+    </picture>
+  </a>
+
+  <a href="http://www.medium.com/@damianbautista" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
+    </picture>
+  </a>
+
+  <a href="https://www.linkedin.com/in/damianbautistaofficial" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+  </a>
+
+  <a href="https://www.twitch.tv/damianbautistaofficial" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
+    </picture>
+  </a>
+
+  <a href="https://www.youtube.com/@damianbautistaofficial" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+    </picture>
+  </a>
+
+  <a href="https://discord.com/users/damianbautista#0940" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+    </picture>
+  </a>
+
+  <a href="http://www.instagram.com/damianbautistaofficial" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+    </picture>
+  </a>
+
+  <a href="https://www.facebook.com/damianbautistaoficial" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+    </picture>
+  </a>
+
+  <a href="https://www.stackoverflow.com/users/22196421/damianbautista" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
+    </picture>
+  </a>
+</p>
+
+<br>
+
+<p align="left">
    <a href="https://www.pinterest.com/TU_USUARIO" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" 
       alt="Pinterest" height="40" width="40" /></a>
    <a href="https://www.tiktok.com/@TU_USUARIO" target="blank">
       <img align="center" src="https://upload.wikimedia.org/wikipedia/en/a/a9/TikTok_logo.svg" 
       alt="TikTok" height="40" width="40" /></a>
-</p>
-
-<p align="left"> 
-   <!-- Row 2 -->
    <a href="https://www.tumblr.com/TU_USUARIO" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tumblr.svg" 
       alt="Tumblr" height="40" width="40" /></a>
-   <a href="https://discord.com/users/TU_USUARIO" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" 
-      alt="Discord" height="30" width="40" /></a>
    <a href="https://www.reddit.com/user/TU_USUARIO" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" 
       alt="Reddit" height="40" width="40" /></a>
    <a href="https://www.snapchat.com/add/TU_USUARIO" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg" 
       alt="Snapchat" height="40" width="40" /></a>
-   <a href="https://medium.com/@TU_USUARIO" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg" 
-      alt="Medium" height="40" width="40" /></a>
    <a href="https://TU_PAGINA_WEB" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png" 
       alt="Portafolio" height="40" width="40" /></a>
-   <a href="https://github.com/DamianBautista" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" 
-      alt="GitHub" height="40" width="40" /></a>
 </p>
 
+
+---
 
 
 <br>
