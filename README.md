@@ -220,7 +220,7 @@ In the future, I hope to use my skills and knowledge to help solve problems and 
 
 <h3 align="center">🔥 Streak Stats</h3>
 <p align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github.com/DamianBautista">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=DamianBautista&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 </p>
@@ -229,7 +229,7 @@ In the future, I hope to use my skills and knowledge to help solve problems and 
 
 <h3 align="center">💻 Most Used Languages</h3>
 <p align="center">
-  <a href="https://github.com/DamianBautista/github-readme-stats">
+  <a href="https://github.com/DamianBautista">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianBautista&theme=algolia" alt="Most Used Languages" />
   </a>
 </p>
