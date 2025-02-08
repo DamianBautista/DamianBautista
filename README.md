@@ -48,26 +48,37 @@ In the future, I hope to use my skills and knowledge to help solve problems and 
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- React -->
-<a href="https://reactjs.org/" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" 
-   alt="React" height="40" width="40" /></a>
-<!-- JavaScript -->
-<a href="https://www.javascript.com/" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" 
-   alt="JavaScript" height="40" width="40" /></a>
-<!-- CSS -->
-<a href="https://www.w3.org/Style/CSS/" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" 
-   alt="CSS" height="40" width="40" /></a>
-<!-- HTML -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" 
-   alt="HTML" height="40" width="40" /></a>
-<!-- Java -->
-<a href="https://www.java.com/" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg" 
-   alt="Java" height="40" width="40" /></a>
+<p align="left">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+            width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank"
+        rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
+            width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+            width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank"
+        rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
+            width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
+        target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+            width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank"
+        rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+            width="36" height="36" alt="React" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg"
+            width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank"
+        rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+            width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank"
+        rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+            width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank"
+        rel="noreferrer"><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
+            width="36" height="36" alt="PostgreSQL" /></a>
+</p>
 
 
 
