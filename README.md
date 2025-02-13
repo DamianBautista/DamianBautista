@@ -218,6 +218,15 @@ In the future, I hope to use my skills and knowledge to help solve problems and 
 
 ---
 
+<h3 align="center">📌 My Profile Overview</h3>
+<p align="center">
+  <a href="https://github.com/DamianBautista/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=DamianBautista&show_icons=true&theme=algolia" alt="GitHub Profile Overview" />
+  </a>
+</p>
+
+---
+
 <h3 align="center">🔥 Streak Stats</h3>
 <p align="center">
   <a href="https://github.com/DamianBautista">
@@ -236,14 +245,7 @@ In the future, I hope to use my skills and knowledge to help solve problems and 
 
 ---
 
-<h3 align="center">📌 My Profile Overview</h3>
-<p align="center">
-  <a href="https://github.com/DamianBautista/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=DamianBautista&show_icons=true&theme=algolia" alt="GitHub Profile Overview" />
-  </a>
-</p>
 
----
 
 <br>
 
