@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=a855f7&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+%F0%9F%91%8B;I'm+a+Java+Developer+%E2%9C%A8;Passionate+about+technology+%F0%9F%92%BB" />
 </p>
 
+> 🛠️ **Debugging Mode:** If you see me talking to myself, I'm having a team meeting.  
+
+ 
+
+
 <p align="left">
   <a href="https://www.x.com/DamiianBautista" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/DamiianBautista?logo=twitter&style=for-the-badge&color=a855f7&labelColor=ffffff" />
