@@ -1,9 +1,7 @@
 <h1 align="center"><b>Hi , I'm Damian Bautista </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=a855f7&center=true&vCenter=true&width=500&lines=Bienvenid@+a+mi+perfil+%F0%9F%91%8B;Soy+Un+Desarrollador+Java+%E2%9C%A8;Amante+de+la+tecnolog%C3%ADa+%F0%9F%92%BB" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=a855f7&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile+%F0%9F%91%8B;I'm+a+Java+Developer+%E2%9C%A8;Passionate+about+technology+%F0%9F%92%BB" />
 </p>
-
-
 
 <p align="left">
   <a href="https://www.x.com/DamiianBautista" target="_blank" rel="noreferrer">
