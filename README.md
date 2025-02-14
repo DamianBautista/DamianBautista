@@ -5,9 +5,6 @@
 
 > 🛠️ **Debugging Mode:** If you see me talking to myself, I'm having a team meeting.  
 
- 
-
-
 <p align="left">
   <a href="https://www.x.com/DamiianBautista" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/twitter/follow/DamiianBautista?logo=twitter&style=for-the-badge&color=a855f7&labelColor=ffffff" />
@@ -24,7 +21,10 @@
 <br>
 <br>
 
+
 # <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px">&nbsp;***About me***
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" />
 I'm a **Computer Systems Engineering** student at the **Technological Institute of Oaxaca**, passionate about technology and constant learning. I love tackling challenges and solving problems in a creative and efficient way, which led me to choose this career path.
 
 In addition to my interest in technology, I have a variety of hobbies and activities I enjoy:
